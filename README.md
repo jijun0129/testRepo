@@ -1,4 +1,5 @@
 ## 멀티모달 임베딩을 활용한 이미지 속 객체 특성 식별 및 텍스트 프롬프트 생성
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=E3A6AE&height=140&section=header&text=멀티모달%20임베딩을%20활용한-nl-이미지%20속%20객체%20특성%20식별%20및%20텍스트%20프롬프트%20생성&fontcolor=363636&fontSize=30" />
 
 **경북대학교 2024 하반기 종합설계프로젝트1 with 스피어AX**
 

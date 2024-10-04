@@ -49,11 +49,8 @@
 Feat(login): 카카오 소셜 로그인 기능 구현
 ```
 
-> [!TIP]
->
-> **알고리즘 문제 풀이시에는 scope 부분을 생략해도 좋습니다.**
 
-### 4️⃣ 본인 branch 에서 작업 한 후 main branch로 Pull Request를 진행합니다.
+### 본인 branch 에서 작업 한 후 main branch로 Pull Request를 진행합니다.
 
 - PR의 Assignees 부분에 본인을 추가합니다.
 - 적절한 Label을 추가합니다.

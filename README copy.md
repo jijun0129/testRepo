@@ -55,3 +55,8 @@ Feat(login): 카카오 소셜 로그인 기능 구현
 - PR의 Assignees 부분에 본인을 추가합니다.
 - 적절한 Label을 추가합니다.
 - main branch로 `Squash and merge`를 진행합니다.
+
+### 📄 예상 홈페이지 
+
+
+### 🚀 기대 효과

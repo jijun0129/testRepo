@@ -57,8 +57,8 @@ Feat(login): 카카오 소셜 로그인 기능 구현
 - main branch로 `Squash and merge`를 진행합니다.
 
 ### 📄 예상 홈페이지 
+<img src="https://www.figma.com/design/agkDyOF7WI0ycZD0g5IZS7/IDEA---Free-web-site-for-my-friends-(Community)?node-id=341-374&t=c2rEBf0P6C4PliEN-4"
 
-
-### 🚀 기대 효과
+#"## 🚀 기대 효과
 - 다양한 의료 이미지와 텍스트 데이터를 통합하여 더 정확한 진단과 병변 탐지를 지원.
 - 이미지에서 객체를 인식하고 상황을 설명하는 기능을 통해 자율 주행, 보안 시스템 등에서도 중요한 수행.

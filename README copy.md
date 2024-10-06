@@ -60,15 +60,21 @@ Feat(login): 카카오 소셜 로그인 기능 구현
 
 | [<img src="https://i.ibb.co/Cs9RKqM/root-page-1.png" width="500px">](#) | [<img src="https://i.ibb.co/k4rXZdW/main-page-1.png" width="500px">](#) |
 | :--------------------------------------------------------------------: | :--------------------------------------------------------------------: |
-|                                root page                                |                                main page                                |                      |
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://i.ibb.co/6ch6kk0/5.png" alt="bookmark page" width="300"/>
-    <img src="https://i.ibb.co/Lhnk1fc/6.png" alt="signup page" width="300"/>
-    <img src="https://i.ibb.co/mTXyr7h/7.png" alt="result page" width="300"/>
-</div>
-<div style="text-align: center;">
-    <img src="https://i.ibb.co/YtbLV99/1.png" alt="detail page" width="300"/>
-</div>
+|                                root page                                |                                main page                                |   
+
+| [<img src="https://i.ibb.co/Tm6xLYy/my-page.png" width="500px">](#) | [<img src="https://i.ibb.co/QXvb6Ft/bookmark-page.png" width="500px">](#) |
+| :--------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+|                                my page                                |                                bookmark page                                |   
+
+
+| [<img src="https://i.ibb.co/txmY8wz/signup-page.png" width="500px">](#) | [<img src="https://i.ibb.co/MsT0Vbt/result-page.png" width="500px">](#) |
+| :--------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+|                                signup page                                |                                result page                                |   
+
+| [<img src="https://i.ibb.co/8dJgwPZ/detail-page.png" width="500px">](#) | 
+| :--------------------------------------------------------------------: | 
+|                                detail page                               |  
+
 
 ### 🚀 기대 효과
 - 다양한 의료 이미지와 텍스트 데이터를 통합하여 더 정확한 진단과 병변 탐지를 지원.

@@ -57,8 +57,20 @@ Feat(login): 카카오 소셜 로그인 기능 구현
 - main branch로 `Squash and merge`를 진행합니다.
 
 ### 📄 예상 홈페이지 
-<img src="https://www.figma.com/design/agkDyOF7WI0ycZD0g5IZS7/IDEA---Free-web-site-for-my-friends-(Community)?node-id=341-374&t=c2rEBf0P6C4PliEN-4"
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://i.ibb.co/BVHkKS9/8.png" alt="root page" width="300"/>
+    <img src="https://i.ibb.co/mTXyr7h/7.png" alt="main page" width="300"/>
+    <img src="https://i.ibb.co/2ZRsyvP/4.png" alt="my page" width="300"/>
+</div>
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://i.ibb.co/6ch6kk0/5.png" alt="bookmark page" width="300"/>
+    <img src="https://i.ibb.co/Lhnk1fc/6.png" alt="signup page" width="300"/>
+    <img src="https://i.ibb.co/mTXyr7h/7.png" alt="result page" width="300"/>
+</div>
+<div style="text-align: center;">
+    <img src="https://i.ibb.co/YtbLV99/1.png" alt="detail page" width="300"/>
+</div>
 
-#"## 🚀 기대 효과
+### 🚀 기대 효과
 - 다양한 의료 이미지와 텍스트 데이터를 통합하여 더 정확한 진단과 병변 탐지를 지원.
 - 이미지에서 객체를 인식하고 상황을 설명하는 기능을 통해 자율 주행, 보안 시스템 등에서도 중요한 수행.

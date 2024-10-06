@@ -57,11 +57,10 @@ Feat(login): 카카오 소셜 로그인 기능 구현
 - main branch로 `Squash and merge`를 진행합니다.
 
 ### 📄 예상 홈페이지 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://i.ibb.co/BVHkKS9/8.png" alt="root page" width="300"/>
-    <img src="https://i.ibb.co/mTXyr7h/7.png" alt="main page" width="300"/>
-    <img src="https://i.ibb.co/2ZRsyvP/4.png" alt="my page" width="300"/>
-</div>
+
+| [<img src="https://i.ibb.co/Cs9RKqM/root-page-1.png" width="500px">](#) | [<img src="https://i.ibb.co/k4rXZdW/main-page-1.png" width="500px">](#) |
+| :--------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+|                                root page                                |                                main page                                |                      |
 <div style="display: flex; justify-content: space-between;">
     <img src="https://i.ibb.co/6ch6kk0/5.png" alt="bookmark page" width="300"/>
     <img src="https://i.ibb.co/Lhnk1fc/6.png" alt="signup page" width="300"/>

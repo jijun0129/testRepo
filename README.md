@@ -56,17 +56,17 @@ Feat(BE): 로그인 기능 구현
 | :---------------------------------------------------------------------: | :---------------------------------------------------------------------: |
 |                                signIn page                                |                                main page                                |
 
-| [<img src="https://i.ibb.co/qdGkvW8/my-page-1.png" width="500px">](#) | [<img src="https://i.ibb.co/QXvb6Ft/bookmark-page.png" width="500px">](#) |
+| [<img src="https://i.ibb.co/qdGkvW8/my-page-1.png" width="500px">](#) | [<img src="https://i.ibb.co/LJB1Fkv/bookmark-page-1.png" width="500px">](#) |
 | :-----------------------------------------------------------------: | :-----------------------------------------------------------------------: |
 |                               my page                               |                               bookmark page                               |
 
-| [<img src="https://i.ibb.co/txmY8wz/signup-page.png" width="500px">](#) | [<img src="https://i.ibb.co/MsT0Vbt/result-page.png" width="500px">](#) |
+| [<img src="https://i.ibb.co/stxHtnM/sign-Up-page-1.png" width="500px">](#) | [<img src="https://i.ibb.co/Tm5CzDr/result-page-1.png" width="500px">](#) |
 | :---------------------------------------------------------------------: | :---------------------------------------------------------------------: |
-|                               signup page                               |                               result page                               |
+|                               signUp page                               |                               result page                               |
 
-| [<img src="https://i.ibb.co/8dJgwPZ/detail-page.png" width="390px">](#) |
-| :---------------------------------------------------------------------: |
-|                               detail page                               |
+| [<img src="https://i.ibb.co/TLpgsR7/detail-page-1.png" width="500px">](#) | [<img src="https://i.ibb.co/74n6TsJ/bookmark-detail-page.png" width="500px">](#) |
+| :---------------------------------------------------------------------: | :---------------------------------------------------------------------: |
+|                               detail page                               |                               bookmark detal page                       |
 
 ### 🚀 기대 효과
 

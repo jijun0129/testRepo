@@ -66,7 +66,7 @@ Feat(BE): 로그인 기능 구현
 
 | [<img src="https://i.ibb.co/TLpgsR7/detail-page-1.png" width="500px">](#) | [<img src="https://i.ibb.co/74n6TsJ/bookmark-detail-page.png" width="500px">](#) |
 | :---------------------------------------------------------------------: | :---------------------------------------------------------------------: |
-|                               detail page                               |                               bookmark detal page                       |
+|                               detail page                               |                               bookmark detail page                       |
 
 ### 🚀 기대 효과
 

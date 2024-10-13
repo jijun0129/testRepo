@@ -33,8 +33,6 @@
 - Refactor: 코드 리팩토링
 - Chore: 그 외 자잘한 수정
 - Comment: 주석 관련 작업
-- Backend: 백엔드 관련 작업
-- Frontend: 프론트엔드 관련 작
 - Test: 테스트 관련
 
 2. `<scope>` 에 들어갈 수 있는 항목들

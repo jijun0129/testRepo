@@ -52,11 +52,11 @@ Feat(BE): 로그인 기능 구현
 
 ### 📄 예상 홈페이지
 
-| [<img src="https://i.ibb.co/Cs9RKqM/root-page-1.png" width="500px">](#) | [<img src="https://i.ibb.co/k4rXZdW/main-page-1.png" width="500px">](#) |
+| [<img src="https://i.ibb.co/DK5cRB4/sign-In-page.png" width="500px">](#) | [<img src="https://i.ibb.co/SdpVs8T/main-page-2.png" width="500px">](#) |
 | :---------------------------------------------------------------------: | :---------------------------------------------------------------------: |
-|                                root page                                |                                main page                                |
+|                                signIn page                                |                                main page                                |
 
-| [<img src="https://i.ibb.co/Tm6xLYy/my-page.png" width="500px">](#) | [<img src="https://i.ibb.co/QXvb6Ft/bookmark-page.png" width="500px">](#) |
+| [<img src="https://i.ibb.co/qdGkvW8/my-page-1.png" width="500px">](#) | [<img src="https://i.ibb.co/QXvb6Ft/bookmark-page.png" width="500px">](#) |
 | :-----------------------------------------------------------------: | :-----------------------------------------------------------------------: |
 |                               my page                               |                               bookmark page                               |
 
